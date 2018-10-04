@@ -1,0 +1,16 @@
+Name		|Math	|Lite	|Eng	|His	|Phy
+Nguyen Van A	|8.0	|6.5	|7.5	|7.0	|4.3
+Nguyen Van B	|9.0	|6.5	|8.5	|7.0	|3.3
+Nguyen Van C	|8.0	|6.5	|7.5	|7.0	|3.3
+Nguyen Van D	|4.0	|6.5	|8.5	|7.0	|3.3
+Nguyen Van E	|8.0	|6.5	|7.5	|7.0	|5.3
+Nguyen Van F	|5.0	|6.5	|7.5	|5.0	|3.3
+Nguyen Van G	|8.0	|6.5	|7.5	|7.0	|3.3
+Nguyen Van H	|3.0	|6.5	|5.5	|6.0	|7.3
+Nguyen Van I	|4.0	|6.5	|7.5	|7.0	|3.3
+Nguyen Van J	|8.0	|6.5	|3.5	|7.0	|9.3
+Nguyen Van K	|8.0	|6.5	|7.5	|7.0	|3.3
+Nguyen Van L	|2.0	|6.5	|7.5	|7.0	|9.3
+Nguyen Van M	|1.0	|6.5	|7.5	|7.0	|3.3
+Nguyen Van N	|3.0	|6.5	|7.5	|7.0	|5.3
+Nguyen Van O	|8.0	|6.5	|7.5	|8.0	|9.3

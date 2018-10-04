@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\[lampv2]@fsoft\2.c_language\c_basic\searchalgorithm\main.cpp(167): warning C4101: 'b': unreferenced local variable
+  SearchAlgorithm.vcxproj -> D:\[LamPV2]@Fsoft\2.C_Language\C_Basic\Debug\SearchAlgorithm.exe
+  SearchAlgorithm.vcxproj -> D:\[LamPV2]@Fsoft\2.C_Language\C_Basic\Debug\SearchAlgorithm.pdb (Partial PDB)
