@@ -70,7 +70,7 @@ void merging(int left, int mid, int right)
 	int l1 = left, l2 = mid + 1;
 	int i;
 
-	for (i = left ;l1 <= mid && l2 <= right; i++)
+	for (i = left; l1 <= mid && l2 <= right; i++)
 	{
 		if (a[l1] <= a[l2])
 		{
@@ -95,7 +95,6 @@ void merging(int left, int mid, int right)
 	{
 		a[i] = b[i];
 	}
-	print(a, 10);
 }
 
 void merge_sort(int left, int right)
