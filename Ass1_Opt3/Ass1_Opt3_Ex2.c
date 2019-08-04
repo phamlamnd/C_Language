@@ -9,7 +9,6 @@ struct Account
 	int Age;
 	char Address[50];
 	float Balance;
-	0b0000101;
 };
 
 //Check number is positive integer
